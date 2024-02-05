@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0",
+    "genre": "Action"
+  },
+  {
+    "id": "1",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2",
+    "genre": "Animation"
+  },
+  {
+    "id": "3",
+    "genre": "Comedy"
+  },
+  {
+    "id": "4",
+    "genre": "Drama"
+  },
+  {
+    "id": "5",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "6",
+    "genre": "historical"
+  },
+  {
+    "id": "7",
+    "genre": "Horror"
+  },
+  {
+    "id": "8",
+    "genre": "Musical"
+  },
+  {
+    "id": "9",
+    "genre": "Noir"
+  },
+  {
+    "id": "10",
+    "genre": "Romance"
+  },
+  {
+    "id": "11",
+    "genre": "Science fiction"
+  },
+  {
+    "id": "12",
+    "genre": "Thriller"
+  },
+  {
+    "id": "13",
+    "genre": "Western"
+  }
+]
