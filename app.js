@@ -1,15 +1,15 @@
 const express = require("express")
-const { db } = require("./database")
 const app = express()
+const genres = require("./routes/genres")
+const home = require("./routes/home")
 const port = process.env.PORT || 3000
 
-app.get("/", (req, res) => {
-  res.send("")
-})
+// Router handler
+app.use(express.json())
+app.use("/api/genres", genres)
+app.use("/", home)
 
-app.get("/api/genres", (req, res) => {
-  return res.json(db.tables.genres)
-})
+
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`)

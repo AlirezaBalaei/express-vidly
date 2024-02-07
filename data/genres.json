@@ -54,5 +54,13 @@
   {
     "id": "13",
     "genre": "Western"
+  },
+  {
+    "id": "14",
+    "genre": "Persian Cartoons"
+  },
+  {
+    "id": "15",
+    "genre": "Persian Drama"
   }
 ]
